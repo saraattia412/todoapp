@@ -1,9 +1,8 @@
 # todoapp
 
-used sqflite flutter , bloc 
-create database
-insert database
-delete database
+used sqflite flutter .
+create , insert and delete database. bloc state management
+
 
 ## Getting Started
 
