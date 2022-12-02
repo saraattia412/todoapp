@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+used sqflite flutter , bloc 
 
 ## Getting Started
 
