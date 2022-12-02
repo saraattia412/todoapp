@@ -1,6 +1,9 @@
 # todoapp
 
 used sqflite flutter , bloc 
+create database
+insert database
+delete database
 
 ## Getting Started
 
