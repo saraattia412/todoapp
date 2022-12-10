@@ -6,6 +6,10 @@ create , insert and delete database. bloc state management
 
 ## Getting Started
 
+todo app
+used bloc(cubit) , flutter_bloc and create states.
+create database , insert database ,get data from database ,update and delete data by sqflite flutter
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
